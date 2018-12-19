@@ -1,4 +1,4 @@
-Sound Level Meter application for Matlab.
+# Sound Level Meter application for Matlab (with GUI)
 
 Given an audio file and a reference file (at 94 dBSPL), it calculates
 the equivalent Sound Pressure Level (Leq) for each third-octave
